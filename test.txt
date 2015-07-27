@@ -1,0 +1,2 @@
+EneUserID	euAccount	euPassword	ZOOMID	euNickname	CreateDate	IdentityTypeID	MISID	phone	mail	UpdateDate	JsonAr
+7a9b222c-0a20-4e39-97c1-71b7a472fef0	jotestA	84177282	3bzacojHTYWD1i92bPQheg	jotestA	2015-06-05 14:22:21.683	1		0912345678	jotestA@cablesoft.com.tw	2015-06-05 14:22:21.683	NULL
